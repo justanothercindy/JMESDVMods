@@ -1,0 +1,10 @@
+{
+  "Name": "Colored Machines",
+  "Author": "JustAnotherMe",
+  "Version": "1.0.0",
+  "Description": "Color certain machines if they are processing or are ready to harvest",
+  "UniqueID": "JustAnotherMe.ColoredMachines",
+  "EntryDll": "ColoredMachines.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
