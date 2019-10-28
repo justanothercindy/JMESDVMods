@@ -1,6 +1,0 @@
-C:\Users\Rachel\git\SDVMods\ColoredMachines\bin\Debug\ColoredMachines.dll
-C:\Users\Rachel\git\SDVMods\ColoredMachines\bin\Debug\ColoredMachines.pdb
-C:\Users\Rachel\git\SDVMods\ColoredMachines\obj\Debug\ColoredMachines.csprojAssemblyReference.cache
-C:\Users\Rachel\git\SDVMods\ColoredMachines\obj\Debug\ColoredMachines.csproj.CoreCompileInputs.cache
-C:\Users\Rachel\git\SDVMods\ColoredMachines\obj\Debug\ColoredMachines.dll
-C:\Users\Rachel\git\SDVMods\ColoredMachines\obj\Debug\ColoredMachines.pdb
