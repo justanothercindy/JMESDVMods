@@ -1,0 +1,10 @@
+{
+  "Name": "ShowSeedsOnTrees",
+  "Author": "JustAnotherCindy",
+  "Version": "1.0.0",
+  "Description": "If a tree has a seed, draw seeds on the tree so the player can tell.",
+  "UniqueID": "JustAnotherCindy.ShowSeedsOnTrees",
+  "EntryDll": "ShowSeedsOnTrees.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
