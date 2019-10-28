@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShowSeedsOnTrees", "ShowSeedsOnTrees\ShowSeedsOnTrees.csproj", "{AD45F572-FF23-4A29-BC03-E5586FB79DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColoredMachines", "ColoredMachines\ColoredMachines.csproj", "{6D14B932-D16F-48AA-A4C0-BA2F1D611D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD45F572-FF23-4A29-BC03-E5586FB79DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD45F572-FF23-4A29-BC03-E5586FB79DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD45F572-FF23-4A29-BC03-E5586FB79DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD45F572-FF23-4A29-BC03-E5586FB79DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D14B932-D16F-48AA-A4C0-BA2F1D611D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D14B932-D16F-48AA-A4C0-BA2F1D611D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D14B932-D16F-48AA-A4C0-BA2F1D611D05}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6D14B932-D16F-48AA-A4C0-BA2F1D611D05}.Debug|Any CPU.Build.0 = Debug|x86
+	EndGlobalSection
+EndGlobal
